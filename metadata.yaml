@@ -1,0 +1,27 @@
+_repo: The-Motor-Boys-Over-the-OceanOr-A-Marvelous-Rescue-in-Mid-Air_46127
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46127-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Young, Clarence
+    gutenberg_agent_id: '1632'
+    url: http://www.gutenberg.org/2009/agents/1632
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
+description: ''
+gutenberg_issued: '2014-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Airships -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Search and rescue operations -- Juvenile fiction'
+title: The Motor Boys Over the Ocean; Or, A Marvelous Rescue in Mid-Air
+url: http://www.gutenberg.org/ebooks/46127
